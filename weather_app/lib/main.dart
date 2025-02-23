@@ -30,7 +30,7 @@ class WeatherPage extends StatefulWidget {
 
 class _WeatherPageState extends State<WeatherPage> {
   String _city = "Istanbul";
-  String _apiKey = "8bab7feaf8e4bd9a9ff114e312b557c0"; // OpenWeather API Key
+  String _apiKey = "Your api"; // OpenWeather API Key
   String? _temperature;
   String? _description;
   String? _icon;
